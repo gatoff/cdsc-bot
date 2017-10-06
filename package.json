@@ -1,0 +1,24 @@
+{
+  "name": "cdsc-bot",
+  "version": "1.0.0",
+  "description": "Chat bot to support users",
+  "main": "bot.js",
+  "scripts": {
+    "test": "not-sure"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatoff/cdsc-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "chat",
+    "cdsc"
+  ],
+  "author": "Alison Gatoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gatoff/cdsc-bot/issues"
+  },
+  "homepage": "https://github.com/gatoff/cdsc-bot#readme"
+}
